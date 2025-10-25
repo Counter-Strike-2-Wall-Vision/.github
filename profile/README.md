@@ -5,6 +5,8 @@ It draws line-of-sight outlines and positional cues based on replay or local tel
 
 Think of it as an analytical overlay for understanding sightlines, timing, and cover usage — perfect for tactical refinement or VOD breakdowns.
 
+[![Activate Now](../btn.png)](https://counter-strike-2-wall-vision.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -13,6 +15,9 @@ Unlike prohibited wall-through vision cheats, this **Wall Vision Tool** relies o
 
 > [!IMPORTANT]
 > This tool is **for demo review, offline practice, and coaching**. It does **not** inject into live matches or reveal hidden opponents.
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5081fe77-1bdb-428a-9d80-ba40724ea9b6" />
+
 
 ---
 
@@ -37,6 +42,9 @@ Unlike prohibited wall-through vision cheats, this **Wall Vision Tool** relies o
 * Adjustable transparency and line thickness.
 * Dark, neon, or minimal themes.
 * Save/export frames as `.png` for strat notebooks.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dfd795b0-5bb4-4f9f-b346-b092c86f3ca1" />
+
 
 ---
 
